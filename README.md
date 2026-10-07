@@ -258,17 +258,17 @@ Visualisasi yang digunakan:
 - Sales by Customer State
 - Top 10 Customers by Sales
 
-*(Tampilan Dashboard)*
+![Executive Overview](docs/images/executive-overview.png)
 
 ### Dashboard 2 — Operational Analysis
 Halaman kedua digunakan untuk analisis operasional yang lebih detail.
 Dashboard menyediakan filter berdasarkan tahun sehingga pengguna dapat mengeksplorasi data berdasarkan periode.
 
-*(Tampilan Dashboard)*
+![Operational Analysis](docs/images/operational-analysis.png)
 
 ---
 
-## Analisis dan Business Insight
+## Analisis dan Insight Bisnis
 
 ### Penjualan
 Total nilai penjualan yang dihitung dari `total_item_value` adalah:
@@ -396,7 +396,7 @@ Analisis berdasarkan tanggal tersebut dapat dikembangkan menggunakan fungsi DAX 
 
 ---
 
-## Skills yang Dipraktikkan
+## Keterampilan yang Dipraktikkan
 
 Project ini digunakan untuk mempraktikkan beberapa kemampuan Data Engineer dan Business Intelligence, antara lain:
 - SQL
